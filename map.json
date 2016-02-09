@@ -16,6 +16,22 @@
           51.524168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Costa Coffee Tooley Street",
+        "description": "Seats near the window with power sockets, unlimited WiFi. A bit soulless, but less distracting for it.",
+        "marker-symbol": "cafe",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08133720000000721,
+          51.5053533
+        ]
+      }
     }
   ]
 }
