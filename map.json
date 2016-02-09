@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Look Mum No Hands",
+        "description": "Great coffee shop, No WiFI between 12-2 though.",
+        "marker-symbol": "cafe",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096889,
+          51.524168
+        ]
+      }
+    }
+  ]
+}
