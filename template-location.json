@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "title": "",
+    "description": "",
+    "marker-symbol": "<See https://www.mapbox.com/maki/>",
+    "marker-size": "medium"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      "<Longitude>",
+      "<Latitude>"
+    ]
+  }
+}
