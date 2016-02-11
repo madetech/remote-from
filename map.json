@@ -38,7 +38,7 @@
       "properties": {
         "title": "Counter Albion",
         "description": "Nice cafe, lots of seats, free wifi",
-        "marker-symbol": "cafe>",
+        "marker-symbol": "cafe",
         "marker-size": "medium"
       },
       "geometry": {
