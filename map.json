@@ -32,6 +32,22 @@
           51.504339
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Counter Albion",
+        "description": "Nice cafe, lots of seats, free wifi",
+        "marker-symbol": "cafe>",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.075071",
+          "51.524504"
+        ]
+      }
     }
   ]
 }
